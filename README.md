@@ -4,9 +4,13 @@ REAL-TIME COMMUNICATION SYSTEM POWERED BY AI FOR SPECIALLY ABLED
 ## Team members:
 
 ROSHNI S
+
 PRIYA DHARSHINI S
+
 RIYA P
+
 SANJU SHREE K
+
 
 
 | Industry Mentor(s) Name | : | DIVYA                       |
